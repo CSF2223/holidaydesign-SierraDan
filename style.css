@@ -1,0 +1,49 @@
+body {
+    background-color: lightblue;
+}
+.title {
+    margin: 0;
+    text-align: center;
+    color: blue;
+    border-color: red blue green;
+    border-style: outset;
+    border-radius: 20px;
+    box-shadow: 5px 5px green;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.title h4 {
+    text-align: right;
+    margin-right: 1.2rem;
+    color: black;
+}
+.sections {
+    margin: 5px;
+}
+.holiday {
+    background-color: blue;
+    padding: 0.3rem;
+    border-radius: 8px;
+    text-align: center;
+}
+.holiday img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+.holiday a {
+    color: white;
+    font-style: normal;
+    text-decoration: none;
+}
+.holiday p {
+    font-family: serif;
+    font-size: 1rem;
+    letter-spacing: 1px;
+    color: white;
+}
+cite {
+    font-size: 12px;
+    margin: 0;
+    color: white;
+}
